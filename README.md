@@ -1,52 +1,6 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@dusgml2665 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
- 
-30
-881 1,707 dbader/readme-template
- Code  Issues 2  Pull requests 6  Projects 0  Wiki  Security  Insights
-Comparing changes
-Choose two branches to see what’s changed or to start a new pull request. If you need to, you can also .
-     Able to merge. These branches can be automatically merged.
-Add Korean Translation #8
-Hello, on the way I prepared a seminar for GitHub beginners, I found your repo and translated into Korean to use the purpose of an educational material.
- 4 commits
- 1 file changed
- 0 commit comments
- 1 contributor
-Commits on Mar 30, 2018
-@sujinleeme
-sujinleeme
-doc: Create new korean translation
-e3a18fd
-@sujinleeme
-sujinleeme
-doc: Update '_' end the end of line
-cd79cde
-@sujinleeme
-sujinleeme
-doc: Fix typo
-d1c4b7a
-Commits on Mar 31, 2018
-@sujinleeme
-sujinleeme
-doc: Add screenshot img
-fa45f1d
-Showing  with 78 additions and 0 deletions.
-  78  korean/README.md 
-@@ -0,0 +1,78 @@
 # 프로젝트명
 > 간략한 프로젝트 소개 문구를 작성합니다.
+
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
@@ -122,16 +76,3 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
-No commit comments for this range
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
